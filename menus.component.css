@@ -1,0 +1,14 @@
+.menu {
+    background-color: black;
+    padding: 10px;
+}
+
+.menu-item {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+
+}
+.menu:hover {
+    color: aquamarine;
+}
