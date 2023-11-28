@@ -1,0 +1,102 @@
+/* @import url(../node_modules/bootstrap/dist/css/bootstrap.min.css); */
+.sai{
+    border: 3px solid rgb(49,34,34);
+    width: 50%;
+    height: 100%;
+    margin: 10px;
+}
+.sai-one{
+    border: 1px solid black;
+    height: 160px;
+}
+.size{
+    text-align: center;
+    margin-left: 70px;
+}
+.design{
+    text-align: center;
+    margin: 10px;
+}
+.payslip{
+     text-align: center; 
+    display: inline;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.child{
+    display: flex;
+}
+.child1 span{
+    float: right;
+}
+.child1{
+    width: 500px;
+    border: 1px solid black;
+}
+.child2{
+    width: 500px;
+    border: 1px solid black;
+    /* display: flex;  */
+    /* margin-bottom: 2px; */
+}
+.child-d1 span{
+    float: right;
+    font-weight: 600;
+}
+.child-d2 span{
+    float: right;
+    font-weight: 600;
+}
+.child p span{
+    font-weight: 550;
+     margin-left: 60px;
+}
+p{
+    margin: 5px;
+    margin-bottom: 0px;
+
+}.total-earning{
+     border: 1px solid rgb(22, 4, 4); 
+     display: flex; 
+     /* width: 750px; */
+}
+.child-one{
+    display: flex;
+}
+.child-d1,.child-d2{
+    width: 500px;
+    border: 1px solid rgb(22, 4, 4);
+    font-weight: 500;
+}
+.child-d2,.child-d3,.child-d4,.total-1{
+    width: 500px;
+    border: 1px solid rgb(22, 4, 4);
+}
+.child-d4 {
+    font-weight: 600;
+    /* float: right; */
+    /* display: flex;  */
+}
+.child-d3 {
+    font-weight: 600;
+    float: right;
+    width: 500px;
+}
+
+label{
+    margin: 5px;
+     margin-bottom: 0px;
+
+}
+
+
+.child-d4  span{
+    /* display: flex; */
+    float: right;
+     /* width: 370px;  */
+}
+.child-two{
+    display: flex;
+    
+}
+
