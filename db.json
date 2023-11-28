@@ -1,0 +1,26 @@
+{
+    "product": [
+        { "id": 1, "name": "vivo", "quantity": 2,"price": 20000,"Gst": 18,"total": 0
+        },
+        { "id": 2, "name": "apple", "quantity": 1,"price": 169500,"Gst": 18,"total": 0
+        },
+        { "id": 3, "name": "realme", "quantity": 2,"price": 16500,"Gst": 18,"total": 0
+        }
+    ],
+    
+    "orders": [
+        { "id": 1, "name": "cake", "quantity": 2,"price": 500
+        },
+        { "id": 2, "name": "icecreme", "quantity": 1,"price": 200
+        },
+        { "id": 3, "name": "coke", "quantity": 2,"price": 165
+        }
+    ],
+
+    "Moviename": [
+        { "id" :1, "movie" : "sye", "heroname" :"nithin" },
+        { "id" :2, "movie" : "eega", "heroname" :"kicha sudeep" },
+        { "id" :3, "movie" : "vikramakrudu", "heroname" :"raviteja" }
+    ]
+}
+
